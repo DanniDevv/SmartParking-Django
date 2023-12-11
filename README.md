@@ -7,7 +7,7 @@
  source venv/Scripts/activate
 ```
 > [!IMPORTANT]  
-> cd SmartSparking
+> ```cd SmartSparking```
 # Instalar Dependencias
 ```
  pip install -r requirements.txt
